@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CapSense_01x07
+D Capacitive Touch Slider 01x07
+K capsense, slider
+$ENDCMP
+#
+#End Doc Library

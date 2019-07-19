@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AW-xMBE-T
+D TXC's AW series crystal oscillator
+K Crystal Oscillator
+F http://www.txccrystal.com/images/pdf/aw.pdf
+$ENDCMP
+#
+#End Doc Library

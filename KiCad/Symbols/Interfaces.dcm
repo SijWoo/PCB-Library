@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102N-A01-GQFN20
+D Silab's UART to USB bridge QFN20
+K interface, usb
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

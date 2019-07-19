@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG1419BCPZ
+D CMOS SPDT Switch - LFCSP
+K SPDT Switch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1419.pdf
+$ENDCMP
+#
+#End Doc Library

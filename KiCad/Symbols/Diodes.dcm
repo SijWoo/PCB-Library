@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS40-07
+D Schottky Diode - General purpose high speed switching
+K schottky diode, diode, schottyky
+F https://static6.arrow.com/aropdfconversion/fd6452d4559a525646e2302e548922d61da392f/bas40_bas140series.pdf
+$ENDCMP
+#
+$CMP MMBD4448HSDW
+D Fast Switching Diode Array
+F https://www.diodes.com/assets/Datasheets/ds30153.pdf
+$ENDCMP
+#
+#End Doc Library
