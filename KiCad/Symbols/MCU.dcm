@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP BGM13S
-D Blue Gecko Bluetooth SiP Module
-K bluetooth, mcu
-F https://www.silabs.com/documents/login/data-sheets/bgm13s-datasheet.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Oscillator_CTS_636L
+#
+DEF Oscillator_CTS_636L U 0 40 Y Y 1 F N
+F0 "U" 0 150 50 H V C CNN
+F1 "Oscillator_CTS_636L" 0 50 50 H V C CNN
+F2 "Sij_Oscillators:Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 0 250 -400 0 1 0 f
+X EN 1 350 -300 100 L 50 50 1 1 I
+X GND 2 -350 -300 100 R 50 50 1 1 W
+X OUT 3 350 -100 100 L 50 50 1 1 O
+X VCC 4 -350 -100 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

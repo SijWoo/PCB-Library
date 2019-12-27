@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Oscillator_CTS_636L
+D 16MHz Oscillator CTS
+K 16MHz, oscillator, CTS
+F https://www.mouser.com/datasheet/2/96/008-0250-0-786318.pdf
+$ENDCMP
+#
+#End Doc Library

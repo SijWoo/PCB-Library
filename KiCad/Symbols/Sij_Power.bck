@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +25V
+D Power symbol creates a global label with name "+10V"
+K power-flag
+$ENDCMP
+#
+$CMP -32V
+D Power symbol creates a global label with name "+10V"
+K power-flag
+$ENDCMP
+#
+$CMP LT1935
+D High output converter, max 38V, SOT-23
+K converter, SOT-23
+F https://datasheet.octopart.com/LT1935ES5%23TRPBF-Linear-Technology-datasheet-13538923.pdf
+$ENDCMP
+#
+$CMP LT3483
+D Inverting converter, max -38V, SOT-23
+K Inverting conveter, SOT-23
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3483fc.pdf
+$ENDCMP
+#
+$CMP TPS65185
+D PMIC for Eink Display
+K pmic
+F http://www.ti.com/lit/ds/symlink/tps65185.pdf
+$ENDCMP
+#
+#End Doc Library

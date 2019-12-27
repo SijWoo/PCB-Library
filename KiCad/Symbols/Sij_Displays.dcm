@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LS013B7DH03
+D Reflect Display
+$ENDCMP
+#
+$CMP ST7735
+D ST7735 Display
+K TFT, display
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BGM13S
+D Blue Gecko Bluetooth SiP Module
+K bluetooth, mcu
+F https://www.silabs.com/documents/login/data-sheets/bgm13s-datasheet.pdf
+$ENDCMP
+#
+$CMP MCIMX7U5DVK
+D Processors - Application Specialized i.MX 7ULP: Cortex-A7 and Cortex-M4, ultra low-power, 2D/3D graphics
+K ARM CA7
+F https://www.nxp.com/docs/en/data-sheet/IMX7ULPCEC.pdf
+$ENDCMP
+#
+#End Doc Library
