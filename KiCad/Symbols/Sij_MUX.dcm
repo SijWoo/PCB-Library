@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9543
+D I2C MUX, 2-Channel, Interrupt and Reset
+K i2c, mux, 2-channel
+$ENDCMP
+#
+#End Doc Library
