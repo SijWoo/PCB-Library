@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PCA9546
+D I2C MUX, 4-Channel,  Reset
+K i2c, mux, 4-channel
+F http://www.ti.com/lit/ds/symlink/pca9546a.pdf
+$ENDCMP
+#
 $CMP PCA9546AD
 D I2C MUX, 4-Channel,  Reset
 K i2c, mux, 4-channel
